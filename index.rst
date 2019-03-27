@@ -6,8 +6,8 @@
 OMG software requirments specification
 ======================================
 
-* Student Name: IBRAHIM MOHAMED IBRAHIM ISMAIL
-* Student ID: 201732120159
+* IBRAHIM MOHAMED IBRAHIM ISMAIL-201732120159
+* Yussuf Mohamed mahdi-201732120173
 * Class: SE 2017 
 
 Contents
@@ -172,11 +172,11 @@ The web application displays a table and a scatter plot when given a gene expres
 
 The table contains a list of differentially expressed genes with the following format:
 
-+--------+-----------------+----------------+----------+
-| gene_ID| ControlDample   | KnockOutSample |Log_2[FC] |
-+========+=================+================+==========+
-| AT1G010| 1.198558083     | 2.036161827    | 0.76     |
-+--------+-----------------+----------------+----------+
++----------+-----------------+----------------+----------+
+| gene_ID  | ControlDample   | KnockOutSample |Log_2[FC] |
++==========+=================+================+==========+
+| AT1G06463| 68.78681169     | 182.3043556    | 3.38     |
++----------+-----------------+----------------+----------+
 
 3.1.2.2 Plot Analyzing 
 ----------------------
